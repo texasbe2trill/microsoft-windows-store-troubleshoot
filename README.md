@@ -13,10 +13,10 @@ This PowerShell script is designed to assist with troubleshooting common issues 
 4. Run the script by executing the command: `.\WindowsStoreTroubleshooter.ps1`.
 5. Follow the on-screen instructions and provide any required inputs to begin the troubleshooting process.
 
-## Disclaimer:
+## ❗️ Disclaimer:
 Please note that this script is intended for troubleshooting Windows Store issues and may require administrative rights to make changes to your system. Use it at your own risk and ensure you have an up-to-date backup of your important data before proceeding with any suggested repairs.
 
-## License:
+## 🪪 License:
 This Windows Store Troubleshooter script is released under the MIT License. Please review the license file for more details.
 
 Contributions and feedback are welcome! Feel free to submit bug reports, feature requests, or pull requests to improve the script and help the Windows community resolve Windows Store-related problems effectively.
