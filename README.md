@@ -19,4 +19,5 @@ Please note that this script is intended for troubleshooting Windows Store issue
 ## 🪪 License:
 This Windows Store Troubleshooter script is released under the MIT License. Please review the license file for more details.
 
+## 🤝 Contributions:
 Contributions and feedback are welcome! Feel free to submit bug reports, feature requests, or pull requests to improve the script and help the Windows community resolve Windows Store-related problems effectively.
